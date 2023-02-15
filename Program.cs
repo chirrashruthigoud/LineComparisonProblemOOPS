@@ -6,8 +6,8 @@ namespace LineComparisionProblemUsingOOPS
     {
         public static void Main(string[] args)
         {
-            Fanofgeometry fan1 = new Fanofgeometry();
-            fan1.FanOfGeometry();
+            Fanofgeometry1 fan1 = new Fanofgeometry1();
+            fan1.fanOfGeometry();
         }
     }
 }
